@@ -1,0 +1,34 @@
+{
+        "author": {
+                "name": "Zhang Yan Fa",
+                "email": "zhang.yanfa@163.com"
+        },
+        "name": "node-red-yanfaz-iot",
+        "description": "IoT Application Node-RED node for the Registered and Quickstart flows in IBM Watson IoT Platform",
+        "dependencies": {
+                "cfenv": "^1.0.3",
+                "ibmiotf": "^0.2.25",
+                "is-utf8": "^0.2.1"
+        },
+        "version": "0.0.43",
+        "keywords": [
+                "node-red",
+                "bluemix",
+                "iotcloud"
+        ],
+        "readmeFilename": "README.md",
+        "repository": {
+                "type": "git",
+                "url": "https://github.com/zhangyanfa/iot-nodered/tree/master/node-red-yanfaz-iot"
+        },
+        "license": "Apache",
+        "node-red": {
+                "nodes": {
+                        "ibmiotapp": "application/97-iotnewapp-cf.js"
+                }
+        },
+        "maintainers": [{
+                "name": "YanFa Zhang",
+                "email": "zhang.yanfa@163.com"
+        }]
+}
