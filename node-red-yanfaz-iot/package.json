@@ -10,7 +10,7 @@
                 "ibmiotf": "^0.2.25",
                 "is-utf8": "^0.2.1"
         },
-        "version": "0.0.43",
+        "version": "0.0.5",
         "keywords": [
                 "node-red",
                 "bluemix",
